@@ -1,0 +1,17 @@
+//Cat FT2000
+void cat_ai();
+void cat_a2b_vfo();
+void cat_freqA();
+void cat_freqB();
+void get_adj_freq();
+void cat_send_id();
+void cat_send_info();
+void cat_send_tx_state();
+void cat_swap_vfo();
+void cat_sel_vfo();
+void cat_op_mode();
+void cat_tx_state();
+void cat_send_sh();
+void cat_fn_tx();
+void cat_set_narrow();
+void cat_pwr_level();
