@@ -1,0 +1,19 @@
+This library is perhaps first attempt to use the new CAT command of Yaesu with Arduino
+This new Cat command set is used by all modern Yaesu rigs. 
+
+Users write functions to control their rigs using Touch screens, buttons, encoders etc
+Some of these functions could be linked to the CAT library or may be used in 
+the CAT library.
+
+Combining the two should not be much difficult. Most of the CAT commands 
+in this library are for reading or changing frequency/(ies) of the VFO(s) for transmit/receive ,
+reading or manipulaing the modes and similar related functions. 
+
+Modern transceivers have a large number of commands out of which only a handful
+are used in day to day operations of digital communication prgrams.
+Only these few commands are included in this library.
+
+Any one who wishes to improve the current library is welcome to help. Just keep the credits.
+
+THIS LIBRARY IS PROVIDED AS IS FOR THE WHOLE HAM/ELECTRONIC ENTHUSIAST COMMUNITY 
+UNDER GPL3 LICENSE.
